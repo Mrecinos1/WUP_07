@@ -70,7 +70,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+After running these inferential tests, we found that the P value is 0.0009, which is far lower than 0.05 and based on these results, we can say that males are more than twice as likely to die from covid than females.
 
 ## Conclusions
 
