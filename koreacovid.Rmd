@@ -64,6 +64,11 @@ The numerical data confirms the results we concluded from the previous graphical
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 
