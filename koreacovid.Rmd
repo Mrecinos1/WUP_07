@@ -74,3 +74,4 @@ After running these inferential tests, we found that the P value is 0.0009, whic
 
 ## Conclusions
 
+looking at this problem, we have determined that it's a categorical - categorical problem, as we are comparing to categorical data types which are sex (Male - female) and the status of the patient which is either alive or dead.
