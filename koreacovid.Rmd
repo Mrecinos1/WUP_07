@@ -27,8 +27,9 @@ state of a patient must be died or alive - we adjust that as well
   
 # Your Question - Is dying independent of sex?
 
-
-
+## Methods
+ 
+Based on the problem description, it apperas that the problem can be solved as a categorical - categroical problem as we are comparing two categorical date types. The first is sex, and the second is the state of the patient.
 
 
 
